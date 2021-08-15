@@ -1,0 +1,43 @@
+body {
+  background-color: #1A1A2E;
+  color: white;
+}
+nav {
+  background-color: #E94560;
+}
+.navbar-brand {
+  color: white !important;
+
+}
+nav .navbar-nav li a {
+  color: white !important;
+}
+nav .navbar-nav li a:hover {
+  color: rgb(214, 214, 214) !important;
+}
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+h1 {
+  color: white;
+}
+.card {
+  background-color: #e2e2e2ff;
+  color: #605f5eff;
+}
+#mlclas {
+  background-color: #16213E;
+}
+#cnn {
+  background-color: #0F3460;
+}
+#nlp {
+  background-color: #16213E;
+}
+#contact {
+  background-color: #16213E;
+}
+footer {
+  background-color: #16213E;
+}
